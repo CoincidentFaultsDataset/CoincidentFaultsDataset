@@ -1,2 +1,0 @@
-lab1/HelloTest.java
- lab1.HelloTest
